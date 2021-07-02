@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: err, I've been to 3 countries so far in life (india, france and italy)
 
-![](images/mj.png)
+<img src="images/mj.png" width="600" height="500">
