@@ -5,7 +5,7 @@
 - 📫 How to reach me: mathews2492@gmail.com
 - ⚡ Fun fact: err, I've been to 3 countries so far in life (india, france and italy) and definitely planning on going to more!
 
-### Tools/ OS's/ Frameworks I Have Experience With!
+### Tools / OS's / Frameworks I Have Experience With!
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="r" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" /> <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /> <img alt="tableau" src="https://img.shields.io/badge/Tableau-E95420?style=flat-square&logo=tableau&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
