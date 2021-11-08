@@ -5,7 +5,7 @@
 - 📫 How to reach me: mathews2492@gmail.com
 - ⚡ Fun fact: err, I've been to 3 countries so far in life (india, france and italy) and definitely planning on going to more!
 
-### Tools/OS's/Frameworks I Have Experience With!
+### Tools/ OS's/ Frameworks I Have Experience With!
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
