@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Mathews (Matt), and yes it really is spelt like that
 
+![](https://komarev.com/ghpvc/?username=mathewsjoyy&label=Profile+Views)
+
 - 🌱 I’m currently learning SQL, Python, Data Viz and some C++
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: mathews2492@gmail.com
