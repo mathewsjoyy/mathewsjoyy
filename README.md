@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mathews (Matt), and yes it really is spelt like that
 
-![](https://komarev.com/ghpvc/?username=mathewsjoyy&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=mathewsjoyy&label=Profile+Views&color=ff69b4)
 
 - 🌱 I’m currently learning SQL, Python, Data Viz and some C++
 - 💬 Ask me about anything you want!
