@@ -9,7 +9,7 @@
 
 ### Tools / OS's I Have Experience With!
 
-<div align="center>
+<div align="center">
   <img alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> <img alt="PostGre" src="https://img.shields.io/badge/PostGreSQL-07405E?style=flat-square&logo=postgresql&logoColor=white" />
