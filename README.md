@@ -7,10 +7,8 @@
 - 📫 How to reach me: mathews2492@gmail.com
 - ⚡ Fun fact: err, I've been to 3 countries so far in life (india, france and italy) and definitely planning on going to more!
 
-### Tools / OS's / Frameworks I Have Experience With!
+### Tools / OS's I Have Experience With!
 <div align="center">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-<br>
   <img alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> <img alt="PostGre" src="https://img.shields.io/badge/PostGreSQL-07405E?style=flat-square&logo=postgresql&logoColor=white" />
