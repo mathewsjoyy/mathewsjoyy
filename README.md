@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning SQL, Python, Data Viz and some C++
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: mathews2492@gmail.com
-- ⚡ Fun fact: err, I've been to 3 countries so far in life (india, france and italy) and definitely planning on going to more!
+- ⚡ Fun fact: I've been to 4 countries so far in life (india, france, amsterdam and italy) and definitely planning on going to more!
 
 ### Tools / OS's I Have Experience With!
 
