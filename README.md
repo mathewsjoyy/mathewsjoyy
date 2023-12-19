@@ -22,7 +22,7 @@
 </div>
 
 ### My links
-- 🌟 [Tableau Public](https://public.tableau.com/app/profile/mathews.joy), [My Website](https://mathewsjoy.herokuapp.com/index), [LinkedIn](https://www.linkedin.com/in/mathews-joy/)
+- 🌟 [My Website](https://mathewsjoy.herokuapp.com/index), [LinkedIn](https://www.linkedin.com/in/mathews-joy/)
 
 <div align="center">
 <img src="images/mj.png">
